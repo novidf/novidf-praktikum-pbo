@@ -1,7 +1,7 @@
-//Nama file : MOperasiTitik.java
+//Nama file 	: MOperasiTitik.java
 //Penulis 	: Novi Dwi Fitriani/24060121120027
 //Tanggal	: 01/03/2023
-//Deskripsi : Kelas yang berisi program utama yamng memanfaatkan kelas operasi titik
+//Deskripsi 	: Kelas yang berisi program utama yamng memanfaatkan kelas operasi titik
 
 class MOperasiTitik{
 	public static void main(String[] args){
