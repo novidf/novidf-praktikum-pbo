@@ -1,3 +1,8 @@
+//Nama file 	: Titik.java
+//Penulis 	: Novi Dwi Fitriani/24060121120027
+//Tanggal	: 22/02/2023
+//Deskripsi 	: Kelas yang berisi realisasi program kelas titik
+
 class Titik{
 	double absis;
 	double ordinat;
