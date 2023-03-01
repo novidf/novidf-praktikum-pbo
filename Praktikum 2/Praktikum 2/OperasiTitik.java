@@ -1,7 +1,7 @@
-//Nama file : OperasiTitik.java
+//Nama file 	: OperasiTitik.java
 //Penulis 	: Novi Dwi Fitriani/24060121120027
 //Tanggal	: 01/03/2023
-//Deskripsi : Kelas yang berisi realisasi program kelas operasi titik
+//Deskripsi	: Kelas yang berisi realisasi program kelas operasi titik
 
 class OperasiTitik{
 	private void refleksiSumbuX(Titik titik){
