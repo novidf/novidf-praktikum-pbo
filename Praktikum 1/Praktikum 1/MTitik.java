@@ -1,3 +1,8 @@
+//Nama file 	: MTitik.java
+//Penulis 	: Novi Dwi Fitriani/24060121120027
+//Tanggal	: 22/02/2023
+//Deskripsi 	: Kelas yang berisi program utama yang memanfaatkan kelas titik
+
 class MTitik
 {
 	public static void main(String[]args)
