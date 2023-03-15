@@ -26,3 +26,4 @@ class MTimSepakbola {
 		// TODO: call endTandingBola()
 		liverpool.endTandingBola(manchesterUnited);
   }
+}
