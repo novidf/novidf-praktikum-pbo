@@ -22,4 +22,4 @@ public class BangunDatarGeneric<T1 extends BangunDatar>{
 	}
 }
 //Mengganti karakter 'T' dengan karakter lain merupakan suatu metode untuk memberikan nama yang lebih deskriptif kepada parameter generik
-//dan membedakan mereka ketika menggunakan lebih dari satu parameter generik dalam kelas tersebut.
+//dan membedakan ketika menggunakan lebih dari satu parameter generik dalam kelas tersebut.
